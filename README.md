@@ -1,10 +1,10 @@
 # nvim
-A simple nvim config with spacemacs inspired key maps, gruvbox theme, and quality of life improvements. 
+A simple neovim config with spacemacs inspired key maps, gruvbox theme, and quality of life improvements. 
 # Requires
 - A Patched Nerdfont
 - NVIM v0.9.0+
 - Gnu/Linux
-# Includes
+# Included Plugins
 - wbthomason/packer
 - nvim-lualine/lualine.nvim
 - nvim-treesitter/nvim-treesitter
