@@ -1,6 +1,6 @@
 # nvim
 A simple neovim config with spacemacs inspired key maps, gruvbox theme, and quality of life improvements. 
-# Requires
+# Requirements
 - A Patched Nerdfont
 - NVIM v0.9.0+
 - Gnu/Linux
@@ -15,3 +15,5 @@ A simple neovim config with spacemacs inspired key maps, gruvbox theme, and qual
 - nvim-tree/nvim-web-devicons
 - VonHeikemen/lsp-zero.nvim
 - goolord/alpha-nvim
+# Screenshots
+![dashboard screenshot](/screenshotdash.jpg)
