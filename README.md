@@ -2,6 +2,7 @@
 A simple neovim config with spacemacs inspired key maps, gruvbox theme, and quality of life improvements. 
 # Requirements
 - A Patched Nerdfont
+- [Packer](https://github.com/wbthomason/packer.nvim)
 - NVIM v0.9.0+
 - Gnu/Linux
 # Included Plugins
